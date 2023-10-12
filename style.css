@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(244, 244, 244);
+    padding:20px;
+}
+
+.custom{
+    border: 1px solid rgb(14, 117, 89);
+    margin: 12px 40px;
+    padding: 6px;
+    border-radius: 20px;
+    box-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+}
