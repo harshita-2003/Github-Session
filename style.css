@@ -11,8 +11,17 @@ body{
 
 .custom{
     border: 1px solid rgb(14, 117, 89);
-    margin: 12px 40px;
+    width: 27rem;
+    margin: 12px 12px 12px;
     padding: 6px;
     border-radius: 20px;
     box-shadow: 2px 3px 4px rgba(0,0,0,0.5);
+}
+.customlist{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+.customlist li{
+    font-weight: 500;
 }
